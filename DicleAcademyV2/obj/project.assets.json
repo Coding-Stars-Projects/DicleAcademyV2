@@ -8,19 +8,40 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ici\\.nuget\\packages\\": {}
+<<<<<<< HEAD
+    "C:\\Users\\NESLİHAN\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\kadir\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+>>>>>>> 1f7c5e23d975a5c2936295619a1d7f293d78a222
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj",
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\NESLİHAN\\Source\\Repos\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj",
       "projectName": "DicleAcademyV2",
-      "projectPath": "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj",
-      "packagesPath": "C:\\Users\\ici\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\DicleAcademyV2\\obj\\",
+      "projectPath": "C:\\Users\\NESLİHAN\\Source\\Repos\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj",
+      "packagesPath": "C:\\Users\\NESLİHAN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\NESLİHAN\\Source\\Repos\\DicleAcademyV2\\DicleAcademyV2\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj",
+      "projectName": "DicleAcademyV2",
+      "projectPath": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj",
+      "packagesPath": "C:\\Users\\kadir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\DicleAcademyV2\\obj\\",
+>>>>>>> 1f7c5e23d975a5c2936295619a1d7f293d78a222
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ici\\AppData\\Roaming\\NuGet\\NuGet.Config",
+<<<<<<< HEAD
+        "C:\\Users\\NESLİHAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\kadir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> 1f7c5e23d975a5c2936295619a1d7f293d78a222
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +49,11 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+<<<<<<< HEAD
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+=======
+        "C:\\Program Files\\dotnet\\library-packs": {},
+>>>>>>> 1f7c5e23d975a5c2936295619a1d7f293d78a222
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +90,11 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+>>>>>>> 1f7c5e23d975a5c2936295619a1d7f293d78a222
       }
     }
   }
