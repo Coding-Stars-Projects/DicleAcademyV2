@@ -1,8 +1,15 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿using DicleAcademyV2.Extencion;
+using Repositories.AutoMapper;
+
+var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+builder.Services.ConfiguratioSQLContext(builder.Configuration);
+builder.Services.ConfiguerRepostoryManager();
+builder.Services.ConfiguerServiceManager();
+builder.Services.ConfigureIdentity();
+builder.Services.AddAutoMapper(typeof(MappingProfile).Assembly);
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
