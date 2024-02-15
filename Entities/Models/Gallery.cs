@@ -10,7 +10,7 @@ namespace Entities.Models
     public class Gallery
     {
         [Key]
-        public string GalleryId { get; set; }
+        public int GalleryId { get; set; }
         public string GalleryImage { get; set; }
     }
 }

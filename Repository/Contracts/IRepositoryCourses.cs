@@ -9,7 +9,7 @@ namespace Repositories.Contracts
 {
     public interface IRepositoryCourses: IRepositoryBase<Courses>
     {
-        IQueryable<Courses> GetCoursest(int id, bool trackchanges);
+        IQueryable<Courses> GetCourses(int id, bool trackchanges);
         
     }
 }

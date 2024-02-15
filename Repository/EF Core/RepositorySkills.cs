@@ -8,13 +8,13 @@ using System.Threading.Tasks;
 
 namespace Repositories.EF_Core
 {
-    internal class RepositorySlills: RepositoryBase<Skills>, IRepositorySkills
+    public class RepositorySkills: RepositoryBase<Skills>, IRepositorySkills
     {
-        public RepositorySlills(RepositoryContext context) : base(context)
+        private readonly RepositoryContext _context;
+        public RepositorySkills(RepositoryContext context) : base(context)
         {
-            
+            _context = context;
         }
-
         public IQueryable<Skills> GetSkills(int id, bool trackchanges) => GenericReadExpression(x => x.SkillId == id, trackchanges);
 
     }

@@ -10,9 +10,10 @@ namespace Repositories.EF_Core
 {
     public class RepositoryContact : RepositoryBase<Contact>, IRepositoryContact
     {
+        private readonly RepositoryContext _context;
         public RepositoryContact(RepositoryContext context) : base(context)
         {
-
+            _context = context;
         }
 
         public IQueryable<Contact> GetContact(int id, bool trackchanges) => GenericReadExpression(x => x.ContactId == id, trackchanges);

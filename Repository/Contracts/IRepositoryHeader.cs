@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace Repositories.Contracts
 {
-    public  interface IRepositoryCourseDetails: IRepositoryBase<CourseDetails>
+    public interface IRepositoryHeader : IRepositoryBase<Header>
     {
-        IQueryable<CourseDetails> GetCourseDetails(int id, bool trackchanges);
-        
+        IQueryable<Header> GetHeader(int id, bool trackchanges);
     }
 }

@@ -16,6 +16,46 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ici\Source\Repos\Coding-Stars-Projects\DicleAcademyV2\DicleAcademyV2
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/ici/Source/Repos/Coding-Stars-Projects/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/ExtendedScrollbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRXh0ZW5kZWRTY3JvbGxiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ici/Source/Repos/Coding-Stars-Projects/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/ExtendedScrollspy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRXh0ZW5kZWRTY3JvbGxzcHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ici/Source/Repos/Coding-Stars-Projects/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/FormAdvanced.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybUFkdmFuY2VkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ici/Source/Repos/Coding-Stars-Projects/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/FormEditors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybUVkaXRvcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ici/Source/Repos/Coding-Stars-Projects/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/FormElements.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybUVsZW1lbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ici/Source/Repos/Coding-Stars-Projects/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/FormFileUploads.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybUZpbGVVcGxvYWRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ici/Source/Repos/Coding-Stars-Projects/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/FormImageCrop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybUltYWdlQ3JvcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ici/Source/Repos/Coding-Stars-Projects/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/FormValidation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybVZhbGlkYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ici/Source/Repos/Coding-Stars-Projects/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/FormWizard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybVdpemFyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ici/Source/Repos/Coding-Stars-Projects/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/FormXEditable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybVhFZGl0YWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ici/Source/Repos/Coding-Stars-Projects/DicleAcademyV2/DicleAcademyV2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

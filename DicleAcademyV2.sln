@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DicleAcademyV2", "DicleAcad
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{4DF347E9-A8DE-4505-8846-007138E864D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repository\Repositories.csproj", "{D1FF2127-DF67-49C7-835B-353557E04102}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repositories", "Repository\Repositories.csproj", "{D1FF2127-DF67-49C7-835B-353557E04102}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

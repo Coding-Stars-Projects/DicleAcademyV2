@@ -8,14 +8,14 @@ using System.Threading.Tasks;
 
 namespace Repositories.EF_Core
 {
-    public class RepositoryCourses: RepositoryBase<Courses>, IRepositoryCourses
+    public class RepositoryStudentsSay : RepositoryBase<StudentsSay>, IRepositoryStudentsSay
     {
         private readonly RepositoryContext _context;
-        public RepositoryCourses(RepositoryContext context) : base(context)
+        public RepositoryStudentsSay(RepositoryContext context) : base(context)
         {
             _context = context;
         }
-        public IQueryable<Courses> GetCourses(int id, bool trackchanges) => GenericReadExpression(x => x.CourseId == id, trackchanges);
-        
+        public IQueryable<StudentsSay> GetStudentsSay(int id, bool trackchanges) => GenericReadExpression(x => x.StudentsSayId == id, trackchanges);
+
     }
 }
