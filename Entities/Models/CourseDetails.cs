@@ -11,7 +11,7 @@ namespace Entities.Models
     public class CourseDetails
     {
         [Key]
-        public int CourseDetailId { get; set; }
+        public int CourseDetailsId { get; set; }
 
         public string CourseName { get; set; }
 

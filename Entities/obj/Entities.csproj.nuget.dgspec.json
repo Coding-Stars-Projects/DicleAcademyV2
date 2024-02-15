@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\Entities.csproj": {}
+    "C:\\Users\\NESLİHAN\\Source\\Repos\\DicleAcademyV2\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\Entities.csproj": {
+    "C:\\Users\\NESLİHAN\\Source\\Repos\\DicleAcademyV2\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\NESLİHAN\\Source\\Repos\\DicleAcademyV2\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\ici\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\NESLİHAN\\Source\\Repos\\DicleAcademyV2\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\NESLİHAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NESLİHAN\\Source\\Repos\\DicleAcademyV2\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ici\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NESLİHAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
