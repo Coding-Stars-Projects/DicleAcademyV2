@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\kadir\source\repos\DicleAcademyV2\DicleAcademyV2
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/AddAboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cQWRkQWJvdXRVcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/AppsCalendar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cQXBwc0NhbGVuZGFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -198,6 +202,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/PagesTimeline.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cUGFnZXNUaW1lbGluZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/ShowAboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cU2hvd0Fib3V0VXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/TablesBasic.cshtml]

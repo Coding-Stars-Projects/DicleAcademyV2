@@ -474,17 +474,18 @@
                     <li class="side-nav-item">
                         <a data-bs-toggle="collapse" href="#sidebarPages" aria-expanded="false" aria-controls="sidebarPages" class="side-nav-link">
                             <i class="ri-pages-line"></i>
-                            <span> Pages </span>
+                            <span> AboutUs </span>
                             <span class="menu-arrow"></span>
                         </a>
                         <div class="collapse" id="sidebarPages">
                             <ul class="side-nav-second-level">
                                 <li>
-                                    <a href="@Url.Action("PagesStarter", "Admin", new {})">Starter Page</a>
+                                    <a href="@Url.Action("AddAboutUs", "Admin", new {})">AboutUs Ekle</a>
                                 </li>
                                 <li>
-                                    <a href="@Url.Action("PagesContactList", "Admin", new {})">Contact List</a>
+                                    <a href="@Url.Action("ShowAboutUs", "Admin", new {})">AboutUs Göster</a>
                                 </li>
+                                <!--
                                 <li>
                                     <a href="@Url.Action("PagesProfile", "Admin", new {})">Profile</a>
                                 </li>
@@ -512,6 +513,7 @@
                                 <li>
                                     <a href="@Url.Action("Error500", "Admin", new {})">Error 500</a>
                                 </li>
+                                -->
                             </ul>
                         </div>
                     </li>
