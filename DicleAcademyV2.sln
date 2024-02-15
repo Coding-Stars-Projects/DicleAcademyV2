@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DicleAcademyV2", "DicleAcademyV2\DicleAcademyV2.csproj", "{C69C1DB5-7747-4FB1-96AA-4903B5B6C5B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DicleAcademyV2", "DicleAcademyV2\DicleAcademyV2.csproj", "{C69C1DB5-7747-4FB1-96AA-4903B5B6C5B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{4DF347E9-A8DE-4505-8846-007138E864D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C69C1DB5-7747-4FB1-96AA-4903B5B6C5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C69C1DB5-7747-4FB1-96AA-4903B5B6C5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C69C1DB5-7747-4FB1-96AA-4903B5B6C5B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF347E9-A8DE-4505-8846-007138E864D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF347E9-A8DE-4505-8846-007138E864D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF347E9-A8DE-4505-8846-007138E864D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF347E9-A8DE-4505-8846-007138E864D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
