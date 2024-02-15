@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZOIQ/8zC7HjFoqgSV04LKBdM+9QolLCdObCULScWbMfOG7yzw55tbnJjf1dikmnDjxwqo8stzH2GiuArpwzVqA==",
+  "dgSpecHash": "u6J04VyxYKZv8XQKM82M0UZkuzqjTPwf7xoXLSfAClMP7UnotYxZNrJWmJv8O0mCiOrvcbUPq9iR0uiZnss3YA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,12 @@
     "C:\\Users\\ici\\.nuget\\packages\\microsoft.identitymodel\\7.0.0\\microsoft.identitymodel.7.0.0.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    },
     {
       "code": "NU1701",
       "level": "Warning",

@@ -17,7 +17,7 @@
       "projectName": "DicleAcademyV2",
       "projectPath": "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj",
       "packagesPath": "C:\\Users\\ici\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\DicleAcademyV2\\obj\\",
+      "outputPath": "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\DicleAcademyV2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ici\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,5 +68,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\DicleAcademyV2\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

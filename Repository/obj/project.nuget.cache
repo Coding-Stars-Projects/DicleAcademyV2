@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uLyzLiSFIhIYaJEMBquIrUUL0C1T8vfQ4yPpXOqkE6fmgsQNKq1QWtjYCLL7KeZuD6Q7uHvas2iuZ5Z9GVBC0Q==",
+  "dgSpecHash": "V65zxmLcyH+FmmofkR2KOugnNggFiVuyU1yV8WEZshqfbcEPi6dVT34uQE6PIeXlPRdk25rlftyGeCZ3ggE9XA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\Repository\\Repositories.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ici\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ici\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.12\\microsoft.aspnetcore.cryptography.internal.7.0.12.nupkg.sha512",
     "C:\\Users\\ici\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.12\\microsoft.aspnetcore.cryptography.keyderivation.7.0.12.nupkg.sha512",
     "C:\\Users\\ici\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.12\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.12.nupkg.sha512",
@@ -25,6 +26,12 @@
     "C:\\Users\\ici\\.nuget\\packages\\microsoft.identitymodel\\7.0.0\\microsoft.identitymodel.7.0.0.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\Repository\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    },
     {
       "code": "NU1701",
       "level": "Warning",

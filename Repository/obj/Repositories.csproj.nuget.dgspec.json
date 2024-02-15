@@ -11,7 +11,7 @@
         "projectName": "Entities",
         "projectPath": "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\ici\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ici\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -76,7 +76,7 @@
         "projectName": "Repositories",
         "projectPath": "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\Repository\\Repositories.csproj",
         "packagesPath": "C:\\Users\\ici\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ici\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,6 +108,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
