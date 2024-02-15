@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Q7pgjvpcq+rzM4N6DlbPTUthtlNFtroUas0HVHcNuxZn3EW0g1IPBOKJY56dy/dBfYHDk3OZgBmYuc++yXCr8A==",
+  "dgSpecHash": "AAULAmaTmzdyl21C1yCxvwsqt+lX/dbR3CVD0ci2it4GaK8ifnnVrs0qYrMSxrGhy3/jKq/2Ikmeduq+BlSV9g==",
   "success": true,
   "projectFilePath": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Repository\\Repositories.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kadir\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\kadir\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.12\\microsoft.aspnetcore.cryptography.internal.7.0.12.nupkg.sha512",
     "C:\\Users\\kadir\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.12\\microsoft.aspnetcore.cryptography.keyderivation.7.0.12.nupkg.sha512",
     "C:\\Users\\kadir\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.12\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.12.nupkg.sha512",
