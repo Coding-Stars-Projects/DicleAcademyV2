@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\Entities.csproj": {}
+    "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\Entities.csproj": {
+    "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\ici\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\obj\\",
         "projectStyle": "PackageReference",

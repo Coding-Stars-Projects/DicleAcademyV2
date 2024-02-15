@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+TLFHEee2KP2YKbr9feJVNmhGxzoLy1RNcOl3ckzdZKzUmPmUqsCn6J9hRNTnMAS1Q9XgOMzgER0ZAG2uiu7Yw==",
+  "dgSpecHash": "kAAKEm3h/G2LTvCT8ddDCJvSYbDgq9HzHQ+/z6Vg5Sxbm8qtk76/jbmI1Bvu/Jynaje8ceY3Tb+1xoI0mFYpXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj",
+  "projectFilePath": "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\DicleAcademyV2\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
