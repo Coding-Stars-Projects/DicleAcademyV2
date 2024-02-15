@@ -15,7 +15,7 @@ namespace DicleAcademyV2
 
                 var builder = new DbContextOptionsBuilder<RepositoryContext>()
                     .UseSqlServer(configuration.GetConnectionString("DefaultConnection"),
-                    prj => prj.MigrationsAssembly("Institutional"));
+                    prj => prj.MigrationsAssembly("DicleAcademyV2"));
 
                 return new RepositoryContext(builder.Options);
             }
