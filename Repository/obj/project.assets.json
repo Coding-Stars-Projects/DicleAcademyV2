@@ -325,19 +325,6 @@
           "lib/net35/microsoft.identitymodel.dll": {}
         }
       },
-      "DicleAcademyV2/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/DicleAcademyV2.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/DicleAcademyV2.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -809,11 +796,6 @@
         "microsoft.identitymodel.nuspec"
       ]
     },
-    "DicleAcademyV2/1.0.0": {
-      "type": "project",
-      "path": "../DicleAcademyV2/DicleAcademyV2.csproj",
-      "msbuildProject": "../DicleAcademyV2/DicleAcademyV2.csproj"
-    },
     "Entities/1.0.0": {
       "type": "project",
       "path": "../Entities/Entities.csproj",
@@ -822,24 +804,23 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "DicleAcademyV2 >= 1.0.0",
       "Entities >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\NESLİHAN\\.nuget\\packages\\": {}
+    "C:\\Users\\ici\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NESLİHAN\\Source\\Repos\\DicleAcademyV2\\Repository\\Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\Repository\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "C:\\Users\\NESLİHAN\\Source\\Repos\\DicleAcademyV2\\Repository\\Repositories.csproj",
-      "packagesPath": "C:\\Users\\NESLİHAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NESLİHAN\\Source\\Repos\\DicleAcademyV2\\Repository\\obj\\",
+      "projectPath": "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\Repository\\Repositories.csproj",
+      "packagesPath": "C:\\Users\\ici\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\NESLİHAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ici\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -853,11 +834,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\NESLİHAN\\Source\\Repos\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj": {
-              "projectPath": "C:\\Users\\NESLİHAN\\Source\\Repos\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj"
-            },
-            "C:\\Users\\NESLİHAN\\Source\\Repos\\DicleAcademyV2\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\NESLİHAN\\Source\\Repos\\DicleAcademyV2\\Entities\\Entities.csproj"
+            "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\ici\\Source\\Repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\Entities.csproj"
             }
           }
         }
@@ -887,7 +865,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   },
