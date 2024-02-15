@@ -16,6 +16,314 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\kadir\source\repos\DicleAcademyV2\DicleAcademyV2
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/AppsCalendar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cQXBwc0NhbGVuZGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/AuthForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cQXV0aEZvcmdvdFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/AuthLockScreen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cQXV0aExvY2tTY3JlZW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/AuthLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cQXV0aExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/AuthLogout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cQXV0aExvZ291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/AuthRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cQXV0aFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/ChartsApex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cQ2hhcnRzQXBleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/ChartsChartJS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cQ2hhcnRzQ2hhcnRKUy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/ChartsSparklines.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cQ2hhcnRzU3BhcmtsaW5lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRXJyb3I0MDQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/Error404Alt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRXJyb3I0MDRBbHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/Error500.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRXJyb3I1MDAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/ExtendedDragula.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRXh0ZW5kZWREcmFndWxhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/ExtendedPortlets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRXh0ZW5kZWRQb3J0bGV0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/ExtendedRangeSlider.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRXh0ZW5kZWRSYW5nZVNsaWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/ExtendedRatings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRXh0ZW5kZWRSYXRpbmdzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/ExtendedScrollbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRXh0ZW5kZWRTY3JvbGxiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/ExtendedScrollspy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRXh0ZW5kZWRTY3JvbGxzcHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/FormAdvanced.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybUFkdmFuY2VkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/FormEditors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybUVkaXRvcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/FormElements.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybUVsZW1lbnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/FormFileUploads.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybUZpbGVVcGxvYWRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/FormImageCrop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybUltYWdlQ3JvcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/FormValidation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybVZhbGlkYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/FormWizard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybVdpemFyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/FormXEditable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybVhFZGl0YWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/IconsBootstrap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cSWNvbnNCb290c3RyYXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/IconsMdi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cSWNvbnNNZGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/IconsRemixIcons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cSWNvbnNSZW1peEljb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/LayoutsBoxed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cTGF5b3V0c0JveGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/LayoutsCollapsedSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cTGF5b3V0c0NvbGxhcHNlZFNpZGViYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/LayoutsHorizontal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cTGF5b3V0c0hvcml6b250YWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/LayoutsLightSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cTGF5b3V0c0xpZ2h0U2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/LayoutsSmSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cTGF5b3V0c1NtU2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/LayoutsUnstickyLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cTGF5b3V0c1Vuc3RpY2t5TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/MapsGoogle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cTWFwc0dvb2dsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/MapsVector.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cTWFwc1ZlY3Rvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/PagesContactList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cUGFnZXNDb250YWN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/PagesFaq.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cUGFnZXNGYXEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/PagesInvoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cUGFnZXNJbnZvaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/PagesMaintenance.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cUGFnZXNNYWludGVuYW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/PagesPricing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cUGFnZXNQcmljaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/PagesProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cUGFnZXNQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/PagesStarter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cUGFnZXNTdGFydGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/PagesTimeline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cUGFnZXNUaW1lbGluZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/TablesBasic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVGFibGVzQmFzaWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/TablesDatatable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVGFibGVzRGF0YXRhYmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/TablesEditable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVGFibGVzRWRpdGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/TablesResponsive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVGFibGVzUmVzcG9uc2l2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiAccordions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlBY2NvcmRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiAlerts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlBbGVydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiAvatars.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlBdmF0YXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiBadges.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlCYWRnZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiBreadcrumb.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlCcmVhZGNydW1iLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiButtons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlCdXR0b25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiCards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlDYXJkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiCarousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlDYXJvdXNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiCollapse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlDb2xsYXBzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiDropdowns.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlEcm9wZG93bnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiEmbedVideo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlFbWJlZFZpZGVvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiGrid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlHcmlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiLinks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlMaW5rcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiListGroup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlMaXN0R3JvdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiModals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlNb2RhbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiNotifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlOb3RpZmljYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiOffcanvas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlPZmZjYW52YXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiPagination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlQYWdpbmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiPlaceholders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlQbGFjZWhvbGRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiPopovers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlQb3BvdmVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiProgress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlQcm9ncmVzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiSpinners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlTcGlubmVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiTabs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlUYWJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiTooltips.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlUb29sdGlwcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiTypography.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlUeXBvZ3JhcGh5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/UiUtilities.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cVWlVdGlsaXRpZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Shared/Admin_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEFkbWluX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
