@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "p9WMQlNz+RvFmKcy+uxALkdXwBGUIdDcYxHIPML+SMhM6fj/aQV6HuxUF+9FT6b9Emt2jIYmIA8NOzvTGfC4Uw==",
   "success": true,
   "projectFilePath": "C:\\Users\\NESLİHAN\\Source\\Repos\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj",
+=======
+  "dgSpecHash": "weuUz4GgsGZiCU+gFxfEUx6YJMNoykmS6V5laFZGM9TbNPYIPmNme+YHkkjbhIJyxo9ADfS+zakKZpCXZ1EqLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj",
+>>>>>>> 1f7c5e23d975a5c2936295619a1d7f293d78a222
   "expectedPackageFiles": [],
   "logs": []
 }
