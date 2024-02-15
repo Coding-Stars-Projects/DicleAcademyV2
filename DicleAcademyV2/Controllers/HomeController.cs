@@ -1,8 +1,8 @@
-﻿using DicleAcademyV2.Models;
+﻿using DicleAcademy.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace DicleAcademyV2.Controllers
+namespace DicleAcademy.Controllers
 {
     public class HomeController : Controller
     {

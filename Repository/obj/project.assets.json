@@ -840,19 +840,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ici\\.nuget\\packages\\": {}
+    "C:\\Users\\dogru\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\Repository\\Repositories.csproj",
+      "projectUniqueName": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Repository\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\Repository\\Repositories.csproj",
-      "packagesPath": "C:\\Users\\ici\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\Repository\\obj\\",
+      "projectPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Repository\\Repositories.csproj",
+      "packagesPath": "C:\\Users\\dogru\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ici\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dogru\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -866,8 +866,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\Entities\\Entities.csproj"
+            "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Entities\\Entities.csproj"
             }
           }
         }
@@ -908,12 +908,6 @@
     }
   },
   "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\Repository\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    },
     {
       "code": "NU1701",
       "level": "Warning",

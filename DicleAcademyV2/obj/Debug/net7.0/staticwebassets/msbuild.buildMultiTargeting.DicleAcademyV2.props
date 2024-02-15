@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DicleAcademyV2.props" />
+</Project>

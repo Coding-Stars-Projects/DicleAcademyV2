@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj": {}
+    "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\DicleAcademyV2\\DicleAcademyV2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj": {
+    "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\DicleAcademyV2\\DicleAcademyV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj",
+        "projectUniqueName": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\DicleAcademyV2\\DicleAcademyV2.csproj",
         "projectName": "DicleAcademyV2",
-        "projectPath": "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj",
-        "packagesPath": "C:\\Users\\ici\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ici\\source\\repos\\Coding-Stars-Projects\\DicleAcademyV2\\DicleAcademyV2\\obj\\",
+        "projectPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\DicleAcademyV2\\DicleAcademyV2.csproj",
+        "packagesPath": "C:\\Users\\dogru\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\DicleAcademyV2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ici\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dogru\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
