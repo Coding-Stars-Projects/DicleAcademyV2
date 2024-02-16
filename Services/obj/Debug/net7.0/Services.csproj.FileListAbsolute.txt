@@ -1,0 +1,5 @@
+C:\Users\kadir\source\repos\DicleAcademyV2\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Users\kadir\source\repos\DicleAcademyV2\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\source\repos\DicleAcademyV2\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Users\kadir\source\repos\DicleAcademyV2\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Users\kadir\source\repos\DicleAcademyV2\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache

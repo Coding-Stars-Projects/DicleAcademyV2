@@ -17,8 +17,11 @@ namespace Repositories.Contracts
         IRepositoryFAQ Faq { get; }
         IRepositoryGallery Gallery { get; }
         IRepositoryGetInTouch GetInTouch { get; }
+        IRepositoryHeader Header { get; }
         IRepositoryInstructors Instructors { get; }
         IRepositorySkills Skills { get; }
+        IRepositoryStudentsSay StudentsSay { get; }
+        IRepositoryUser User { get; }
         IRepositoryWelcomeInformations WelcomeInformations { get; }
         void Save(); // unit of work kullanımı 
     }
