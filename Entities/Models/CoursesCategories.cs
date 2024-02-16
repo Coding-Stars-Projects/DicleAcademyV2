@@ -17,8 +17,5 @@ namespace Entities.Models
 
         public string CategoryImage { get; set; }
 
-        [ForeignKey("CourseId")]
-        public Courses Courses { get; set; }
-        public int CourseId { get; set; }
     }
 }

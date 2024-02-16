@@ -31,6 +31,13 @@ namespace Services.EFCore
 			return courseDto;
 		}
 
+		public List<CoursesDto> GetCoursesByCategoryId(int id) 
+		{
+            var courses = _repository.Courses.GetCoursesByCategoryId(id);
+            var coursesDto = _mapper.Map<List<CoursesDto>>(courses);
+            return coursesDto;
+        }
+
 		public CoursesDto CreateCourses(CoursesDto coursesDto)
 		{
 			var course = _mapper.Map<Courses>(coursesDto);

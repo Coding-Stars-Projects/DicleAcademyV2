@@ -16,6 +16,10 @@ namespace Repositories.EF_Core
             _context = context;
         }
         public IQueryable<Courses> GetCourses(int id, bool trackchanges) => GenericReadExpression(x => x.CourseId == id, trackchanges);
-        
+        public List<Courses> GetCoursesByCategoryId(int id) 
+        {
+           var data = _context.Courses.Where(x => x.CategoryId == id).ToList();
+            return data;   
+        }
     }
 }
