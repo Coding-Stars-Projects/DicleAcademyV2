@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Entities",
-    "\\Entities\\Models",
-    "\\Repository",
-    "\\Repository\\EF Core"
+    ""
   ],
-  "SelectedNode": "\\Repository\\EF Core\\RepositoryCourseDetails.cs",
+  "SelectedNode": "\\DicleAcademyV2.sln",
   "PreviewInSolutionExplorer": false
 }
