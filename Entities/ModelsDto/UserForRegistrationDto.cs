@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Entities.ModelsDTO
+namespace Entities.ModelsDto
 {
     public class UserForRegistrationDto
     {
