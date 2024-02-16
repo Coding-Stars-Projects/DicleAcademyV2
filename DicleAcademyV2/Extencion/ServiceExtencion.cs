@@ -6,7 +6,6 @@ using Microsoft.EntityFrameworkCore;
 using Repositories;
 using Repositories.Contracts;
 using Repositories.EF_Core;
-using Repositories.EFCore;
 using Services.Abstract;
 using Services.Contracts;
 using Services.EFCore;

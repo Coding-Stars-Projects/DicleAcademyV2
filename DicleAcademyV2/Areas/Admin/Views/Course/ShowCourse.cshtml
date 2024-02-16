@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Form Elements | Velonic - Bootstrap 5 Admin & Dashboard Template</title>
+    <title>Basic Tables | Velonic - Bootstrap 5 Admin & Dashboard Template</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content="A fully responsive admin theme which can be used to build CRM, CMS,ERP etc." name="description" />
     <meta content="Techzaa" name="author" />
@@ -34,7 +34,7 @@
                     <!-- Topbar Brand Logo -->
                     <div class="logo-topbar">
                         <!-- Logo light -->
-                        <a href="@Url.Action("Index", "Admin", new {})" class="logo-light">
+                        <a href="index.html" class="logo-light">
                             <span class="logo-lg">
                                 <img src="~/velonic/assets/images/logo.png" alt="logo">
                             </span>
@@ -44,7 +44,7 @@
                         </a>
 
                         <!-- Logo Dark -->
-                        <a href="@Url.Action("Index", "Admin", new {})" class="logo-dark">
+                        <a href="index.html" class="logo-dark">
                             <span class="logo-lg">
                                 <img src="~/velonic/assets/images/logo-dark.png" alt="dark logo">
                             </span>
@@ -433,7 +433,7 @@
         <div class="leftside-menu">
 
             <!-- Brand Logo Light -->
-            <a href="index.html" class="logo logo-light">
+            <a href="@Url.Action("Index", "Admin", new {})" class="logo logo-light">
                 <span class="logo-lg">
                     <img src="~/velonic/assets/images/logo.png" alt="logo">
                 </span>
@@ -443,7 +443,7 @@
             </a>
 
             <!-- Brand Logo Dark -->
-            <a href="index.html" class="logo logo-dark">
+            <a href="@Url.Action("Index", "Admin", new {})" class="logo logo-dark">
                 <span class="logo-lg">
                     <img src="~/velonic/assets/images/logo-dark.png" alt="dark logo">
                 </span>
@@ -460,412 +460,278 @@
                     <li class="side-nav-title">Main</li>
 
                     <li class="side-nav-item">
-                        <a href="index.html" class="side-nav-link">
+                        <a href="@Url.Action("Index", "Admin", new {})" class="side-nav-link">
                             <i class="ri-dashboard-3-line"></i>
                             <span class="badge bg-success float-end">9+</span>
                             <span> Dashboard </span>
                         </a>
                     </li>
 
+                    <!--AboutUs-->
                     <li class="side-nav-item">
                         <a data-bs-toggle="collapse" href="#sidebarPages" aria-expanded="false" aria-controls="sidebarPages" class="side-nav-link">
                             <i class="ri-pages-line"></i>
-                            <span> Pages </span>
+                            <span> AboutUs </span>
                             <span class="menu-arrow"></span>
                         </a>
                         <div class="collapse" id="sidebarPages">
                             <ul class="side-nav-second-level">
                                 <li>
-                                    <a href="pages-starter.html">Starter Page</a>
+                                    <a href="@Url.Action("AddAboutUs", "AboutUs", new {})">AboutUs Ekle</a>
                                 </li>
                                 <li>
-                                    <a href="pages-contact-list.html">Contact List</a>
-                                </li>
-                                <li>
-                                    <a href="pages-profile.html">Profile</a>
-                                </li>
-                                <li>
-                                    <a href="pages-timeline.html">Timeline</a>
-                                </li>
-                                <li>
-                                    <a href="pages-invoice.html">Invoice</a>
-                                </li>
-                                <li>
-                                    <a href="pages-faq.html">FAQ</a>
-                                </li>
-                                <li>
-                                    <a href="pages-pricing.html">Pricing</a>
-                                </li>
-                                <li>
-                                    <a href="pages-maintenance.html">Maintenance</a>
-                                </li>
-                                <li>
-                                    <a href="error-404.html">Error 404</a>
-                                </li>
-                                <li>
-                                    <a href="error-404-alt.html">Error 404-alt</a>
-                                </li>
-                                <li>
-                                    <a href="error-500.html">Error 500</a>
+                                    <a href="@Url.Action("ShowAboutUs", "AboutUs", new {})">AboutUs Göster</a>
                                 </li>
                             </ul>
                         </div>
                     </li>
 
+                    <!--BestCourses-->
                     <li class="side-nav-item">
                         <a data-bs-toggle="collapse" href="#sidebarPagesAuth" aria-expanded="false" aria-controls="sidebarPagesAuth" class="side-nav-link">
                             <i class="ri-group-2-line"></i>
-                            <span> Authentication </span>
+                            <span> BestCourses </span>
                             <span class="menu-arrow"></span>
                         </a>
                         <div class="collapse" id="sidebarPagesAuth">
                             <ul class="side-nav-second-level">
                                 <li>
-                                    <a href="auth-login.html">Login</a>
+                                    <a href="@Url.Action("AddBestCourses", "BestCourses", new {})">BestCourses Ekle</a>
                                 </li>
                                 <li>
-                                    <a href="auth-register.html">Register</a>
-                                </li>
-                                <li>
-                                    <a href="auth-logout.html">Logout</a>
-                                </li>
-                                <li>
-                                    <a href="auth-forgotpw.html">Forgot Password</a>
-                                </li>
-                                <li>
-                                    <a href="auth-lock-screen.html">Lock Screen</a>
+                                    <a href="@Url.Action("ShowBestCourses", "BestCourses", new {})">BestCourses Göster</a>
                                 </li>
                             </ul>
                         </div>
                     </li>
 
+                    <!--Contact-->
                     <li class="side-nav-item">
-                        <a data-bs-toggle="collapse" href="#sidebarLayouts" aria-expanded="false" aria-controls="sidebarLayouts" class="side-nav-link">
-                            <i class="ri-layout-line"></i>
-                            <span class="badge bg-warning float-end">New</span>
-                            <span> Layouts </span>
-                        </a>
-                        <div class="collapse" id="sidebarLayouts">
-                            <ul class="side-nav-second-level">
-                                <li>
-                                    <a href="layouts-horizontal.html" target="_blank">Horizontal</a>
-                                </li>
-                                <li>
-                                    <a href="layouts-light-sidebar.html" target="_blank">Light Sidebar</a>
-                                </li>
-                                <li>
-                                    <a href="layouts-sm-sidebar.html" target="_blank">Small Sidebar</a>
-                                </li>
-                                <li>
-                                    <a href="layouts-collapsed-sidebar.html" target="_blank">Collapsed Sidebar</a>
-                                </li>
-                                <li>
-                                    <a href="layouts-unsticky-layout.html" target="_blank">Unsticky Layout</a>
-                                </li>
-                                <li>
-                                    <a href="layouts-boxed.html" target="_blank">Boxed Layout</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </li>
-
-                    <li class="side-nav-title">Components</li>
-
-                    <li class="side-nav-item">
-                        <a data-bs-toggle="collapse" href="#sidebarBaseUI" aria-expanded="false" aria-controls="sidebarBaseUI" class="side-nav-link">
-                            <i class="ri-briefcase-line"></i>
-                            <span> Base UI </span>
+                        <a data-bs-toggle="collapse" href="#sidebarPagesContact" aria-expanded="false" aria-controls="sidebarPagesContact" class="side-nav-link">
+                            <i class="ri-group-2-line"></i>
+                            <span> Contact </span>
                             <span class="menu-arrow"></span>
                         </a>
-                        <div class="collapse" id="sidebarBaseUI">
+                        <div class="collapse" id="sidebarPagesContact">
                             <ul class="side-nav-second-level">
                                 <li>
-                                    <a href="ui-accordions.html">Accordions</a>
-                                </li>
-                                <li>
-                                    <a href="ui-alerts.html">Alerts</a>
-                                </li>
-                                <li>
-                                    <a href="ui-avatars.html">Avatars</a>
-                                </li>
-                                <li>
-                                    <a href="ui-buttons.html">Buttons</a>
-                                </li>
-                                <li>
-                                    <a href="ui-badges.html">Badges</a>
-                                </li>
-                                <li>
-                                    <a href="ui-breadcrumb.html">Breadcrumb</a>
-                                </li>
-                                <li>
-                                    <a href="ui-cards.html">Cards</a>
-                                </li>
-                                <li>
-                                    <a href="ui-carousel.html">Carousel</a>
-                                </li>
-                                <li>
-                                    <a href="ui-collapse.html">Collapse</a>
-                                </li>
-                                <li>
-                                    <a href="ui-dropdowns.html">Dropdowns</a>
-                                </li>
-                                <li>
-                                    <a href="ui-embed-video.html">Embed Video</a>
-                                </li>
-                                <li>
-                                    <a href="ui-grid.html">Grid</a>
-                                </li>
-                                <li>
-                                    <a href="ui-links.html">Links</a>
-                                </li>
-                                <li>
-                                    <a href="ui-list-group.html">List Group</a>
-                                </li>
-                                <li>
-                                    <a href="ui-modals.html">Modals</a>
-                                </li>
-                                <li>
-                                    <a href="ui-notifications.html">Notifications</a>
-                                </li>
-                                <li>
-                                    <a href="ui-offcanvas.html">Offcanvas</a>
-                                </li>
-                                <li>
-                                    <a href="ui-placeholders.html">Placeholders</a>
-                                </li>
-                                <li>
-                                    <a href="ui-pagination.html">Pagination</a>
-                                </li>
-                                <li>
-                                    <a href="ui-popovers.html">Popovers</a>
-                                </li>
-                                <li>
-                                    <a href="ui-progress.html">Progress</a>
-                                </li>
-                                <li>
-                                    <a href="ui-spinners.html">Spinners</a>
-                                </li>
-                                <li>
-                                    <a href="ui-tabs.html">Tabs</a>
-                                </li>
-                                <li>
-                                    <a href="ui-tooltips.html">Tooltips</a>
-                                </li>
-                                <li>
-                                    <a href="ui-typography.html">Typography</a>
-                                </li>
-                                <li>
-                                    <a href="ui-utilities.html">Utilities</a>
+                                    <a href="@Url.Action("ShowContact", "Contact", new {})">Contact Göster</a>
                                 </li>
                             </ul>
                         </div>
                     </li>
 
+                    <!--CourseDetails-->
                     <li class="side-nav-item">
-                        <a data-bs-toggle="collapse" href="#sidebarExtendedUI" aria-expanded="false" aria-controls="sidebarExtendedUI" class="side-nav-link">
-                            <i class="ri-compasses-2-line"></i>
-                            <span> Extended UI </span>
+                        <a data-bs-toggle="collapse" href="#sidebarPagesCourseDetails" aria-expanded="false" aria-controls="sidebarPagesCourseDetails" class="side-nav-link">
+                            <i class="ri-group-2-line"></i>
+                            <span> CourseDetails </span>
                             <span class="menu-arrow"></span>
                         </a>
-                        <div class="collapse" id="sidebarExtendedUI">
+                        <div class="collapse" id="sidebarPagesCourseDetails">
                             <ul class="side-nav-second-level">
                                 <li>
-                                    <a href="extended-portlets.html">Portlets</a>
+                                    <a href="@Url.Action("AddCourseDetails", "CourseDetails", new {})">CourseDetails Ekle</a>
                                 </li>
                                 <li>
-                                    <a href="extended-scrollbar.html">Scrollbar</a>
-                                </li>
-                                <li>
-                                    <a href="extended-range-slider.html">Range Slider</a>
-                                </li>
-                                <li>
-                                    <a href="extended-scrollspy.html">Scrollspy</a>
+                                    <a href="@Url.Action("ShowCourseDetails", "CourseDetails", new {})">CourseDetails Göster</a>
                                 </li>
                             </ul>
                         </div>
                     </li>
+
+                    <!--Course-->
                     <li class="side-nav-item">
-                        <a data-bs-toggle="collapse" href="#sidebarIcons" aria-expanded="false" aria-controls="sidebarIcons" class="side-nav-link">
-                            <i class="ri-pencil-ruler-2-line"></i>
-                            <span> Icons </span>
+                        <a data-bs-toggle="collapse" href="#sidebarPagesCourse" aria-expanded="false" aria-controls="sidebarPagesCourse" class="side-nav-link">
+                            <i class="ri-group-2-line"></i>
+                            <span> Course </span>
                             <span class="menu-arrow"></span>
                         </a>
-                        <div class="collapse" id="sidebarIcons">
+                        <div class="collapse" id="sidebarPagesCourse">
                             <ul class="side-nav-second-level">
                                 <li>
-                                    <a href="icons-remixicons.html">Remix Icons</a>
+                                    <a href="@Url.Action("AddCourse", "Course", new {})">Course Ekle</a>
                                 </li>
                                 <li>
-                                    <a href="icons-bootstrap.html">Bootstrap Icons</a>
-                                </li>
-                                <li>
-                                    <a href="icons-mdi.html">Material Design Icons</a>
+                                    <a href="@Url.Action("ShowCourse", "Course", new {})">Course Göster</a>
                                 </li>
                             </ul>
                         </div>
                     </li>
 
+                    <!--CoursesCategories-->
                     <li class="side-nav-item">
-                        <a data-bs-toggle="collapse" href="#sidebarCharts" aria-expanded="false" aria-controls="sidebarCharts" class="side-nav-link">
-                            <i class="ri-donut-chart-fill"></i>
-                            <span> Charts </span>
+                        <a data-bs-toggle="collapse" href="#sidebarPagesCoursesCategories" aria-expanded="false" aria-controls="sidebarPagesCoursesCategories" class="side-nav-link">
+                            <i class="ri-group-2-line"></i>
+                            <span> CoursesCategories </span>
                             <span class="menu-arrow"></span>
                         </a>
-                        <div class="collapse" id="sidebarCharts">
+                        <div class="collapse" id="sidebarPagesCoursesCategories">
                             <ul class="side-nav-second-level">
                                 <li>
-                                    <a href="charts-apex.html">Apex Charts</a>
+                                    <a href="@Url.Action("AddCoursesCategories", "CoursesCategories", new {})">CoursesCategories Ekle</a>
                                 </li>
                                 <li>
-                                    <a href="charts-chartjs.html">Chartjs</a>
-                                </li>
-                                <li>
-                                    <a href="charts-sparklines.html">Sparkline Charts</a>
+                                    <a href="@Url.Action("ShowCoursesCategories", "CoursesCategories", new {})">CoursesCategories Göster</a>
                                 </li>
                             </ul>
                         </div>
                     </li>
 
+                    <!--FAQ-->
                     <li class="side-nav-item">
-                        <a data-bs-toggle="collapse" href="#sidebarForms" aria-expanded="false" aria-controls="sidebarForms" class="side-nav-link">
-                            <i class="ri-survey-line"></i>
-                            <span> Forms </span>
+                        <a data-bs-toggle="collapse" href="#sidebarPagesFAQ" aria-expanded="false" aria-controls="sidebarPagesFAQ" class="side-nav-link">
+                            <i class="ri-group-2-line"></i>
+                            <span> FAQ </span>
                             <span class="menu-arrow"></span>
                         </a>
-                        <div class="collapse" id="sidebarForms">
+                        <div class="collapse" id="sidebarPagesFAQ">
                             <ul class="side-nav-second-level">
                                 <li>
-                                    <a href="form-elements.html">Basic Elements</a>
+                                    <a href="@Url.Action("AddFAQ", "FAQ", new {})">FAQ Ekle</a>
                                 </li>
                                 <li>
-                                    <a href="form-advanced.html">Form Advanced</a>
-                                </li>
-                                <li>
-                                    <a href="form-validation.html">Form Validation</a>
-                                </li>
-                                <li>
-                                    <a href="form-wizard.html">Form Wizard</a>
-                                </li>
-                                <li>
-                                    <a href="form-fileuploads.html">File Uploads</a>
-                                </li>
-                                <li>
-                                    <a href="form-editors.html">Form Editors</a>
-                                </li>
-                                <li>
-                                    <a href="form-image-crop.html">Image Crop</a>
-                                </li>
-                                <li>
-                                    <a href="form-x-editable.html">X Editable</a>
+                                    <a href="@Url.Action("ShowFAQ", "FAQ", new {})">FAQ Göster</a>
                                 </li>
                             </ul>
                         </div>
                     </li>
 
+                    <!--Gallery-->
                     <li class="side-nav-item">
-                        <a data-bs-toggle="collapse" href="#sidebarTables" aria-expanded="false" aria-controls="sidebarTables" class="side-nav-link">
-                            <i class="ri-table-line"></i>
-                            <span> Tables </span>
+                        <a data-bs-toggle="collapse" href="#sidebarPagesGallery" aria-expanded="false" aria-controls="sidebarPagesGallery" class="side-nav-link">
+                            <i class="ri-group-2-line"></i>
+                            <span> Gallery </span>
                             <span class="menu-arrow"></span>
                         </a>
-                        <div class="collapse" id="sidebarTables">
+                        <div class="collapse" id="sidebarPagesGallery">
                             <ul class="side-nav-second-level">
                                 <li>
-                                    <a href="tables-basic.html">Basic Tables</a>
+                                    <a href="@Url.Action("AddGallery", "Gallery", new {})">Gallery Ekle</a>
                                 </li>
                                 <li>
-                                    <a href="tables-datatable.html">Data Tables</a>
-                                </li>
-                                <li>
-                                    <a href="tables-editable.html">Editable Tables</a>
-                                </li>
-                                <li>
-                                    <a href="tables-responsive.html">Responsive Table</a>
+                                    <a href="@Url.Action("ShowGallery", "Gallery", new {})">Gallery Göster</a>
                                 </li>
                             </ul>
                         </div>
                     </li>
 
+                    <!--GetInTouch-->
                     <li class="side-nav-item">
-                        <a data-bs-toggle="collapse" href="#sidebarMaps" aria-expanded="false" aria-controls="sidebarMaps" class="side-nav-link">
-                            <i class="ri-map-pin-line"></i>
-                            <span> Maps </span>
+                        <a data-bs-toggle="collapse" href="#sidebarPagesGetInTouch" aria-expanded="false" aria-controls="sidebarPagesGetInTouch" class="side-nav-link">
+                            <i class="ri-group-2-line"></i>
+                            <span> GetInTouch </span>
                             <span class="menu-arrow"></span>
                         </a>
-                        <div class="collapse" id="sidebarMaps">
+                        <div class="collapse" id="sidebarPagesGetInTouch">
                             <ul class="side-nav-second-level">
                                 <li>
-                                    <a href="maps-google.html">Google Maps</a>
+                                    <a href="@Url.Action("AddGetInTouch", "GetInTouch", new {})">GetInTouch Ekle</a>
                                 </li>
                                 <li>
-                                    <a href="maps-vector.html">Vector Maps</a>
+                                    <a href="@Url.Action("ShowGetInTouch", "GetInTouch", new {})">GetInTouch Göster</a>
                                 </li>
                             </ul>
                         </div>
                     </li>
 
+                    <!--Header-->
                     <li class="side-nav-item">
-                        <a data-bs-toggle="collapse" href="#sidebarMultiLevel" aria-expanded="false" aria-controls="sidebarMultiLevel" class="side-nav-link">
-                            <i class="ri-share-line"></i>
-                            <span> Multi Level </span>
+                        <a data-bs-toggle="collapse" href="#sidebarPagesHeader" aria-expanded="false" aria-controls="sidebarPagesHeader" class="side-nav-link">
+                            <i class="ri-group-2-line"></i>
+                            <span> Header </span>
                             <span class="menu-arrow"></span>
                         </a>
-                        <div class="collapse" id="sidebarMultiLevel">
+                        <div class="collapse" id="sidebarPagesHeader">
                             <ul class="side-nav-second-level">
                                 <li>
-                                    <a href="javascript: void(0);">Level 1.1</a>
+                                    <a href="@Url.Action("AddHeader", "Header", new {})">Header Ekle</a>
                                 </li>
-                                <li class="side-nav-item">
-                                    <a data-bs-toggle="collapse" href="#sidebarSecondLevel" aria-expanded="false" aria-controls="sidebarSecondLevel">
-                                        <span> Level 1.2 </span>
-                                        <span class="menu-arrow"></span>
-                                    </a>
-                                    <div class="collapse" id="sidebarSecondLevel">
-                                        <ul class="side-nav-third-level">
-                                            <li>
-                                                <a href="javascript: void(0);">Item 1</a>
-                                            </li>
-                                            <li>
-                                                <a href="javascript: void(0);">Item 2</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </li>
-                                <li class="side-nav-item">
-                                    <a data-bs-toggle="collapse" href="#sidebarThirdLevel" aria-expanded="false" aria-controls="sidebarThirdLevel">
-                                        <span> Level 1.3 </span>
-                                        <span class="menu-arrow"></span>
-                                    </a>
-                                    <div class="collapse" id="sidebarThirdLevel">
-                                        <ul class="side-nav-third-level">
-                                            <li>
-                                                <a href="javascript: void(0);">Item 1</a>
-                                            </li>
-                                            <li class="side-nav-item">
-                                                <a data-bs-toggle="collapse" href="#sidebarFourthLevel" aria-expanded="false" aria-controls="sidebarFourthLevel">
-                                                    <span> Item 2 </span>
-                                                    <span class="menu-arrow"></span>
-                                                </a>
-                                                <div class="collapse" id="sidebarFourthLevel">
-                                                    <ul class="side-nav-forth-level">
-                                                        <li>
-                                                            <a href="javascript: void(0);">Item 2.1</a>
-                                                        </li>
-                                                        <li>
-                                                            <a href="javascript: void(0);">Item 2.2</a>
-                                                        </li>
-                                                    </ul>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </div>
+                                <li>
+                                    <a href="@Url.Action("ShowHeader", "Header", new {})">Header Göster</a>
                                 </li>
                             </ul>
                         </div>
                     </li>
 
+                    <!--Instructor-->
+                    <li class="side-nav-item">
+                        <a data-bs-toggle="collapse" href="#sidebarPagesInstructor" aria-expanded="false" aria-controls="sidebarPagesInstructor" class="side-nav-link">
+                            <i class="ri-group-2-line"></i>
+                            <span> Instructor </span>
+                            <span class="menu-arrow"></span>
+                        </a>
+                        <div class="collapse" id="sidebarPagesInstructor">
+                            <ul class="side-nav-second-level">
+                                <li>
+                                    <a href="@Url.Action("AddInstructor", "Instructor", new {})">Instructor Ekle</a>
+                                </li>
+                                <li>
+                                    <a href="@Url.Action("ShowInstructor", "Instructor", new {})">Instructor Göster</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
 
+                    <!--Skill-->
+                    <li class="side-nav-item">
+                        <a data-bs-toggle="collapse" href="#sidebarPagesSkill" aria-expanded="false" aria-controls="sidebarPagesSkill" class="side-nav-link">
+                            <i class="ri-group-2-line"></i>
+                            <span> Skill </span>
+                            <span class="menu-arrow"></span>
+                        </a>
+                        <div class="collapse" id="sidebarPagesSkill">
+                            <ul class="side-nav-second-level">
+                                <li>
+                                    <a href="@Url.Action("AddSkill", "Skill", new {})">Skill Ekle</a>
+                                </li>
+                                <li>
+                                    <a href="@Url.Action("ShowSkill", "Skill", new {})">Skill Göster</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+
+                    <!--StudentsSay-->
+                    <li class="side-nav-item">
+                        <a data-bs-toggle="collapse" href="#sidebarPagesStudentsSay" aria-expanded="false" aria-controls="sidebarPagesStudentsSay" class="side-nav-link">
+                            <i class="ri-group-2-line"></i>
+                            <span> StudentsSay </span>
+                            <span class="menu-arrow"></span>
+                        </a>
+                        <div class="collapse" id="sidebarPagesStudentsSay">
+                            <ul class="side-nav-second-level">
+                                <li>
+                                    <a href="@Url.Action("AddStudentsSay", "StudentsSay", new {})">StudentsSay Ekle</a>
+                                </li>
+                                <li>
+                                    <a href="@Url.Action("ShowStudentsSay", "StudentsSay", new {})">StudentsSay Göster</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+
+                    <!--WelcomeInformation-->
+                    <li class="side-nav-item">
+                        <a data-bs-toggle="collapse" href="#sidebarPagesWelcomeInformation" aria-expanded="false" aria-controls="sidebarPagesWelcomeInformation" class="side-nav-link">
+                            <i class="ri-group-2-line"></i>
+                            <span> WelcomeInformation </span>
+                            <span class="menu-arrow"></span>
+                        </a>
+                        <div class="collapse" id="sidebarPagesWelcomeInformation">
+                            <ul class="side-nav-second-level">
+                                <li>
+                                    <a href="@Url.Action("AddWelcomeInformation", "WelcomeInformation", new {})">WelcomeInformation Ekle</a>
+                                </li>
+                                <li>
+                                    <a href="@Url.Action("ShowWelcomeInformation", "WelcomeInformation", new {})">WelcomeInformation Göster</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
                 </ul>
+
+
                 <!--- End Sidemenu -->
 
                 <div class="clearfix"></div>
@@ -889,59 +755,130 @@
                                 <div class="page-title-right">
                                     <ol class="breadcrumb m-0">
                                         <li class="breadcrumb-item"><a href="javascript: void(0);">Admin</a></li>
-                                        <li class="breadcrumb-item"><a href="javascript: void(0);">AboutUs</a></li>
-                                        <li class="breadcrumb-item active">AboutUs Ekle</li>
+                                        <li class="breadcrumb-item"><a href="javascript: void(0);">Course</a></li>
+                                        <li class="breadcrumb-item active">Course Göster</li>
                                     </ol>
                                 </div>
-                                <h4 class="page-title">AboutUs Ekle</h4>
+                                <h4 class="page-title">Course Göster</h4>
                             </div>
                         </div>
                     </div>
                     <!-- end page title -->
 
                     <div class="row">
-                        <div class="col-12">
+                        <div class="col-xl-12">
                             <div class="card">
                                 <div class="card-header">
-                                    <h4 class="header-title">AboutUs</h4>
-                                    <!--<p class="text-muted mb-0">
-                                        Most common form control, text-based input fields. Includes support for all
-                                        HTML5 types: <code>text</code>, <code>password</code>, <code>datetime</code>,
-                                        <code>datetime-local</code>, <code>date</code>, <code>month</code>,
-                                        <code>time</code>, <code>week</code>, <code>number</code>, <code>email</code>,
-                                        <code>url</code>, <code>search</code>, <code>tel</code>, and <code>color</code>.
-                                    </p>-->
+                                    <h4 class="header-title">Course Göster</h4>
+                                    <!--
+                                    <p class="text-muted mb-0">
+                                        Use <code>.table-striped</code> to add zebra-striping to any table row
+                                        within the <code>&lt;tbody&gt;</code>.
+                                    </p>
+                                    -->
                                 </div>
                                 <div class="card-body">
-                                    <div class="row">
-                                        <div class="col-lg-12">
-                                            <form>
-                                                <div class="mb-3">
-                                                    <label for="simpleinput" class="form-label">Başlık</label>
-                                                    <input type="text" id="simpleinput" class="form-control">
-                                                </div>
-                                                <div class="mb-3">
-                                                    <label for="simpleinput" class="form-label">Açıklama</label>
-                                                    <input type="text" id="simpleinput" class="form-control">
-                                                </div>
-                                                <div class="mb-3">
-                                                    <label for="example-fileinput" class="form-label">Fotoğraf</label>
-                                                    <input type="file" id="example-fileinput" class="form-control">
-                                                </div>
-                                                <div style="text-align: right;">
-                                                    <button type="submit" class="btn btn-primary">Ekle</button>
-                                                </div>
-                                            </form>
-                                        </div> <!-- end col -->
+                                    <div class="table-responsive-sm">
+                                        <table class="table table-striped table-centered mb-0">
+                                            <thead>
+                                                <tr>
+                                                    <th>Kurs Adı</th>
+                                                    <th>Eğitmen Adı</th>
+                                                    <th>Kurs Süresi</th>
+                                                    <th>Kurs Kontenjanı</th>
+                                                    <th>Kategori Id</th>
+                                                    <th>Kurs Fotoğrafı</th>
+                                                    <th style="text-align: right;">Güncelle / Sil</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>Backend</td>
+                                                    <td>Metin Öğet</td>
+                                                    <td>2</td>
+                                                    <td>30</td>
+                                                    <td>1</td>
+                                                    <td class="table-user">
+                                                        <img src="~/velonic/assets/images/users/avatar-2.jpg" alt="table-user"
+                                                             class="me-2 rounded-circle" />
+                                                    </td>
+                                                    <td style="text-align: right;">
+                                                        <a href="javascript: void(0);" class="text-reset fs-16 px-1">
+                                                            <i class="ri-settings-3-line"></i>
+                                                        </a>
+                                                        <a href="javascript: void(0);" class="text-reset fs-16 px-1">
+                                                            <i class="ri-delete-bin-2-line"></i>
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Frontend</td>
+                                                    <td>Metin Öğet</td>
+                                                    <td>2</td>
+                                                    <td>30</td>
+                                                    <td>1</td>
+                                                    <td class="table-user">
+                                                        <img src="~/velonic/assets/images/users/avatar-2.jpg" alt="table-user"
+                                                             class="me-2 rounded-circle" />
+                                                    </td>
+                                                    <td style="text-align: right;">
+                                                        <a href="javascript: void(0);" class="text-reset fs-16 px-1">
+                                                            <i class="ri-settings-3-line"></i>
+                                                        </a>
+                                                        <a href="javascript: void(0);" class="text-reset fs-16 px-1">
+                                                            <i class="ri-delete-bin-2-line"></i>
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Yapay Zeka</td>
+                                                    <td>Metin Öğet</td>
+                                                    <td>2</td>
+                                                    <td>30</td>
+                                                    <td>1</td>
+                                                    <td class="table-user">
+                                                        <img src="~/velonic/assets/images/users/avatar-2.jpg" alt="table-user"
+                                                             class="me-2 rounded-circle" />
+                                                    </td>
+                                                    <td style="text-align: right;">
+                                                        <a href="javascript: void(0);" class="text-reset fs-16 px-1">
+                                                            <i class="ri-settings-3-line"></i>
+                                                        </a>
+                                                        <a href="javascript: void(0);" class="text-reset fs-16 px-1">
+                                                            <i class="ri-delete-bin-2-line"></i>
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Web</td>
+                                                    <td>Metin Öğet</td>
+                                                    <td>2</td>
+                                                    <td>30</td>
+                                                    <td>1</td>
+                                                    <td class="table-user">
+                                                        <img src="~/velonic/assets/images/users/avatar-2.jpg" alt="table-user"
+                                                             class="me-2 rounded-circle" />
+                                                    </td>
+                                                    <td style="text-align: right;">
+                                                        <a href="javascript: void(0);" class="text-reset fs-16 px-1">
+                                                            <i class="ri-settings-3-line"></i>
+                                                        </a>
+                                                        <a href="javascript: void(0);" class="text-reset fs-16 px-1">
+                                                            <i class="ri-delete-bin-2-line"></i>
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div> <!-- end table-responsive-->
 
-
-                                    </div>
-                                    <!-- end row-->
-                                </div> <!-- end card-body -->
+                                </div> <!-- end card body-->
                             </div> <!-- end card -->
-                        </div><!-- end col -->
-                    </div><!-- end row -->
+                        </div><!-- end col-->
 
+
+                    </div>
+                    <!-- end row-->
 
 
                 </div> <!-- container -->
