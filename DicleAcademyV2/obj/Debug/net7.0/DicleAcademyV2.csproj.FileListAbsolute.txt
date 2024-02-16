@@ -136,8 +136,10 @@ C:\Users\dogru\source\repos\AcunMeday\DicleAcadem\DicleAcademyV2\bin\Debug\net7.
 C:\Users\dogru\source\repos\AcunMeday\DicleAcadem\DicleAcademyV2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\dogru\source\repos\AcunMeday\DicleAcadem\DicleAcademyV2\bin\Debug\net7.0\Entities.dll
 C:\Users\dogru\source\repos\AcunMeday\DicleAcadem\DicleAcademyV2\bin\Debug\net7.0\Repositories.dll
+C:\Users\dogru\source\repos\AcunMeday\DicleAcadem\DicleAcademyV2\bin\Debug\net7.0\Services.dll
 C:\Users\dogru\source\repos\AcunMeday\DicleAcadem\DicleAcademyV2\bin\Debug\net7.0\Entities.pdb
 C:\Users\dogru\source\repos\AcunMeday\DicleAcadem\DicleAcademyV2\bin\Debug\net7.0\Repositories.pdb
+C:\Users\dogru\source\repos\AcunMeday\DicleAcadem\DicleAcademyV2\bin\Debug\net7.0\Services.pdb
 C:\Users\dogru\source\repos\AcunMeday\DicleAcadem\DicleAcademyV2\obj\Debug\net7.0\DicleAcademyV2.csproj.AssemblyReference.cache
 C:\Users\dogru\source\repos\AcunMeday\DicleAcadem\DicleAcademyV2\obj\Debug\net7.0\DicleAcademyV2.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\dogru\source\repos\AcunMeday\DicleAcadem\DicleAcademyV2\obj\Debug\net7.0\DicleAcademyV2.AssemblyInfoInputs.cache
