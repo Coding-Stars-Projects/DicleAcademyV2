@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Data;
 using AutoMapper;
+using Entities.ModelsDto;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Configuration;
 using Repositories.Contracts;
 using Services.Abstract;
@@ -24,13 +26,14 @@ namespace Services.Contracts
         private readonly Lazy<IGetInTouchService> _getInTouch;
         private readonly Lazy<IInstructorsService> _instructors;
         private readonly Lazy<ISkillsService> _skills;
+        private readonly Lazy<IHeaderService> _header;
         private readonly Lazy<IWelcomeInformationsService> _welcomeInformations;
         private readonly Lazy<IAuthenticationService> _authentication;
         private readonly Lazy<IUserService> _user;
         private readonly IConfiguration _configuration;
         private readonly IUserService _userManager;
 
-        public ServiceManager(IRepositoryManager repository, IMapper mapper, UserManager userManager, IConfiguration configuration)
+        public ServiceManager(IRepositoryManager repository, IMapper mapper, Microsoft.AspNetCore.Identity.UserManager<User> userManager, IConfiguration configuration)
         {
             // Servislerin tembel yükleme nesnelerinin oluşturulması
             _about = new Lazy<IAboutUsService>(() => new AboutUsService(repository, mapper));
@@ -47,6 +50,7 @@ namespace Services.Contracts
             _welcomeInformations = new Lazy<IWelcomeInformationsService>(() => new WelcomeInformationsService(repository, mapper));
             _authentication = new Lazy<IAuthenticationService>(() => new AuthenticationService(mapper, userManager, configuration));
             _user = new Lazy<IUserService>(() => new UserService(repository, mapper));
+            _header = new Lazy<IHeaderService>(() => new HeaderService(repository, mapper));
         }
 
         // AboutUsService servisini döndürür
@@ -90,6 +94,8 @@ namespace Services.Contracts
 
         // UserService servisini döndürür
         public IUserService UserService => _user.Value;
+
+        public IHeaderService HeaderService => _header.Value;
     }
 
 }
