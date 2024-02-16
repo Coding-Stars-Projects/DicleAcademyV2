@@ -9,5 +9,6 @@ namespace Services.Contracts
 		CoursesDto CreateCourses(CoursesDto coursesDto);
 		void UpdateCourses(CoursesDto coursesDto);
 		void DeleteCourses(int id);
+		List<CoursesDto> GetCoursesByCategoryId(int id);
 	}
 }

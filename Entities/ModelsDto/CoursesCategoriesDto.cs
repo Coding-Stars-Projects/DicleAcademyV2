@@ -16,6 +16,5 @@ namespace Entities.ModelsDto
 
         public string CategoryImage { get; set; }
 
-        public int CourseId { get; set; }
     }
 }
