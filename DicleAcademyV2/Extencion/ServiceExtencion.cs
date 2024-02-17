@@ -1,5 +1,4 @@
 ﻿using Entities.Models;
-using Entities.ModelsDto;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
