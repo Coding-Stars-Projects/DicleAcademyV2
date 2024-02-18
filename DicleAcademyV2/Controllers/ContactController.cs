@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Entities.ModelsDto;
+using Microsoft.AspNetCore.Mvc;
 
 namespace DicleAcademy.Controllers
 {
@@ -7,6 +8,10 @@ namespace DicleAcademy.Controllers
         public IActionResult Index()
         {
             return View("ContactIndex");
+        }
+        public IActionResult PostForm(ContactDto contactDto)
+        {
+            return RedirectToAction("Index");
         }
     }
 }

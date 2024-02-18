@@ -1,12 +1,21 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Services.Contracts;
 
 namespace DicleAcademy.Controllers
 {
     public class SkillsController : Controller
     {
-        public IActionResult Index()
+        private readonly ISkillsService _skillsService;
+
+        public SkillsController(ISkillsService skillsService)
         {
-            return View("SkillsIndex");
+            _skillsService = skillsService;
+        }
+
+        public IActionResult Index()
+        { 
+          var skills=  _skillsService.GetAllSkills();
+            return View("SkillsIndex" , skills);
         }
     }
 }
