@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Areas\Admin\Views\Admin\Data\" />
-    <Folder Include="Controllers\" />
     <Folder Include="wwwroot\assets\" />
   </ItemGroup>
 
