@@ -103,16 +103,6 @@ namespace DicleAcademyV2.Areas.Admin.Controllers
             return View();
         }
 
-        public IActionResult AddAboutUs()
-        {
-            return View();
-        }
-
-        public IActionResult ShowAboutUs()
-        {
-            return View();
-        }
-
         public IActionResult FormFileUploads()
         {
             return View();

@@ -1,12 +1,10 @@
 ﻿using Entities.Models;
-using Entities.ModelsDto;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Repositories;
 using Repositories.Contracts;
 using Repositories.EF_Core;
-using Repositories.EFCore;
 using Services.Abstract;
 using Services.Contracts;
 using Services.EFCore;

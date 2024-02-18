@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\DicleAcademyV2\\DicleAcademyV2.csproj": {}
+    "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\DicleAcademyV2\\DicleAcademyV2.csproj": {
+    "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\DicleAcademyV2\\DicleAcademyV2.csproj",
+        "projectUniqueName": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj",
         "projectName": "DicleAcademyV2",
-        "projectPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\DicleAcademyV2\\DicleAcademyV2.csproj",
-        "packagesPath": "C:\\Users\\dogru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\DicleAcademyV2\\obj\\",
+        "projectPath": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\DicleAcademyV2\\DicleAcademyV2.csproj",
+        "packagesPath": "C:\\Users\\kadir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\DicleAcademyV2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\dogru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kadir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,21 +26,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Entities\\Entities.csproj"
+              "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Repository\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Repository\\Repositories.csproj"
+              "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Repository\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Repository\\Repositories.csproj"
               },
-              "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Services\\Services.csproj"
+              "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Services\\Services.csproj"
               }
             }
           }
@@ -75,21 +79,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Entities\\Entities.csproj": {
+    "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\dogru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\kadir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\dogru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kadir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,6 +105,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -140,21 +149,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Repository\\Repositories.csproj": {
+    "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Repository\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Repository\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Repository\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Repository\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\dogru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Repository\\obj\\",
+        "projectPath": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Repository\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\kadir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Repository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\dogru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kadir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -162,14 +175,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Entities\\Entities.csproj"
+              "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Entities\\Entities.csproj"
               }
             }
           }
@@ -205,21 +219,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Services\\Services.csproj": {
+    "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\dogru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Services\\obj\\",
+        "projectPath": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\kadir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\dogru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kadir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -227,17 +245,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Entities\\Entities.csproj"
+              "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Repository\\Repositories.csproj": {
-                "projectPath": "C:\\Users\\dogru\\source\\repos\\AcunMeday\\DicleAcadem\\Repository\\Repositories.csproj"
+              "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Repository\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\kadir\\source\\repos\\DicleAcademyV2\\Repository\\Repositories.csproj"
               }
             }
           }
@@ -277,7 +296,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

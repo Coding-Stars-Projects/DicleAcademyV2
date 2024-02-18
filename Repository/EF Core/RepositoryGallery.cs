@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Repositories.EFCore
+namespace Repositories.EF_Core
 {
     public class RepositoryGallery: RepositoryBase<Gallery>, IRepositoryGallery
     {

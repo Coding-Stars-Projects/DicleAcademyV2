@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data;
 using AutoMapper;
-using Entities.ModelsDto;
+using Entities.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Configuration;
 using Repositories.Contracts;
