@@ -8,12 +8,9 @@ using System.Threading.Tasks;
 namespace Entities.ModelsDto
 {
     public class SkillsDto
-    {
-       
+    {      
         public int SkillId { get; set; }
-
         public string SkillTitle { get; set; }
-
         public string SkillDescription { get; set; }
     }
 }

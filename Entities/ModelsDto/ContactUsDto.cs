@@ -5,18 +5,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Entities.Models
+namespace Entities.ModelsDto
 {
-    public class Instructors
+    public class ContactUsDto
     {
-        [Key]
-        public int InstructorId { get; set; }
-        public string InstructorName { get; set; }
-        public string InstructorDescription { get; set; }
-        public string AreaOfExpertise { get; set; }
+        public int ContactId { get; set; }
+        public string Adress { get; set; }
+        public string PhoneNumber { get; set; }
+        public string Email { get; set; }
         public string TwitterAccountURL { get; set; }
         public string FacebookAccountURL { get; set; }
+        public string YoutubeAccountURL { get; set; }
+        public string LinkedInAccountURL { get; set; }
         public string InstagramAcoountURL { get; set; }
-
     }
 }

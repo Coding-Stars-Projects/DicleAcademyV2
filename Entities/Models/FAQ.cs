@@ -11,9 +11,7 @@ namespace Entities.Models
     {
         [Key]
         public int FAQId { get; set; }
-
         public string Question { get; set; }
-
         public string Answer { get; set; }
     }
 }

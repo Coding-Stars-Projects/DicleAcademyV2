@@ -11,9 +11,7 @@ namespace Entities.Models
     {
         [Key]
         public int WelcomeInformationId { get; set; }
-
         public string WelcomeInformationTitle { get; set; }
-
         public string WelcomeInformationDescription { get; set; }
         public string WelcomeInformationImage { get; set; }
 

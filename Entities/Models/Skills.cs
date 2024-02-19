@@ -11,9 +11,7 @@ namespace Entities.Models
     {
         [Key]
         public int SkillId { get; set; }
-
         public string SkillTitle { get; set; }
-
         public string SkillDescription { get; set; }
     }
 }
