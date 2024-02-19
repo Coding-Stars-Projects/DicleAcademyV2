@@ -1,15 +1,24 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Services.Contracts;
 
 namespace DicleAcademy.Controllers
 {
     public class CategoryController : Controller
     {
+        private readonly ICoursesCategoriesService _coursesCategoriesService;
+
+        public CategoryController(ICoursesCategoriesService coursesCategoriesService)
+        {
+            _coursesCategoriesService = coursesCategoriesService;
+        }
+
         public IActionResult Index()
         {
-            return View("CategoryIndex");
+          var category=  _coursesCategoriesService.GetAllCoursesCategories();
+            return View("CategoryIndex" , category);
         }
-        public IActionResult CategoryDetails()
-        {
+        public IActionResult CategoryDetails(int id)
+        { //category detail
             return View("CategoryDetailsIndex");
         }
     }

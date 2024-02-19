@@ -7,12 +7,16 @@ namespace DicleAcademy.Controllers
     public class CoursesController : Controller
     {
         private readonly ICoursesCategoriesService _coursesCategoriesService;
+        private readonly ICourseDetailsService _courseDetailsService;
         private readonly ICoursesService _coursesService;
-        public CoursesController(ICoursesCategoriesService coursesCategoriesServic, ICoursesService coursesService)
+
+        public CoursesController(ICoursesCategoriesService coursesCategoriesService, ICourseDetailsService courseDetailsService, ICoursesService coursesService)
         {
-            _coursesCategoriesService = coursesCategoriesServic;
+            _coursesCategoriesService = coursesCategoriesService;
+            _courseDetailsService = courseDetailsService;
             _coursesService = coursesService;
         }
+
         public IActionResult Index()
         {
            List<GetCategoryWithCoursesDto> getCategoryWithCoursesDto = new List<GetCategoryWithCoursesDto>();
@@ -30,9 +34,10 @@ namespace DicleAcademy.Controllers
             }
             return View("CoursesIndex" , Tuple.Create(getCategoryWithCoursesDto , data));
         }
-        public IActionResult CoursesDetails()
+        public IActionResult CoursesDetails(int id)
         {
-            return View("CoursesDetails");
+          var courses= _courseDetailsService.GetByIdCourseDetails(id);
+            return View("CoursesDetails" , courses);
         }
     }
 }
