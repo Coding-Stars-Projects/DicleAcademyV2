@@ -14,6 +14,7 @@ namespace Entities.Models
         public int CategoryID {get; set;}
         public string CategoryName { get; set;}
         public string CategoryImage { get; set; }
+        public string CategoryDescription { get; set; }
         public int TotalCourseNumber { get; set; }
     }
 }
