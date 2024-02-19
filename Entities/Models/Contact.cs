@@ -10,16 +10,14 @@ namespace Entities.Models
 {
     public class Contact
     {
-
         [Key]
         public int ContactId { get; set; }
-        public string Name { get; set; }
-        public string Surname { get; set; }
+        public string Adress { get; set; }
+        public string PhoneNumber { get; set; }
         public string Email { get; set; }
-        public string Description { get; set; }
-
-        [ForeignKey("CourseId")]
-        public Courses Courses { get; set; }
-        public int CourseId { get; set; }
+        public string TwitterAccount { get; set; }
+        public string FacebookAccount { get; set; }
+        public string YoutubeAccount { get; set; }
+        public string LinkedInAccount { get; set; }
     }
 }

@@ -9,14 +9,11 @@ namespace Entities.ModelsDto
 {
     public class ContactUsDto
     {
-        public int ContactId { get; set; }
-        public string Adress { get; set; }
-        public string PhoneNumber { get; set; }
+        public int ContactUsId { get; set; }
+        public string Name { get; set; }
+        public string Surname { get; set; }
         public string Email { get; set; }
-        public string TwitterAccountURL { get; set; }
-        public string FacebookAccountURL { get; set; }
-        public string YoutubeAccountURL { get; set; }
-        public string LinkedInAccountURL { get; set; }
-        public string InstagramAcoountURL { get; set; }
+        public string Description { get; set; }
+        public int CourseId { get; set; }
     }
 }
