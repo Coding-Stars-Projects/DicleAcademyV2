@@ -14,8 +14,9 @@ namespace DicleAcademy.Controllers
         private readonly ISkillsService _skillsService;
         private readonly IInstructorsService _instructorsService;
         private readonly IStudentsSayService _studentsSayService;
+        private readonly IHeaderService _headerService;
 
-        public HomeController(IBestCoursesService bestcoursesService, ICoursesService coursesService, IWelcomeInformationsService welcomeInformationsService, ISkillsService skillsService, IInstructorsService instructorsService, IStudentsSayService studentsSayService)
+        public HomeController(IHeaderService headerService ,IBestCoursesService bestcoursesService, ICoursesService coursesService, IWelcomeInformationsService welcomeInformationsService, ISkillsService skillsService, IInstructorsService instructorsService, IStudentsSayService studentsSayService)
         {
             _bestcoursesService = bestcoursesService;
             _coursesService = coursesService;
@@ -23,10 +24,12 @@ namespace DicleAcademy.Controllers
             _skillsService = skillsService;
             _instructorsService = instructorsService;
             _studentsSayService = studentsSayService;
+            _headerService = headerService; 
         }
 
         public IActionResult Index()
         {
+           var header=  _headerService.GetAllHeader();
             var bestCourses = _bestcoursesService.GetAllBestCourses();
             var courses = new List<CoursesDto>();
             foreach (var course in bestCourses) 
@@ -38,7 +41,7 @@ namespace DicleAcademy.Controllers
             var instruct = _instructorsService.GetAllInstructors();
             var studentSay=_studentsSayService.GetAllStudentsSay();
             //welcome abaout skills courses  InstructorsDto Testimonial
-            return View(Tuple.Create(courses, welcome , skills , instruct , studentSay));
+            return View(Tuple.Create(courses, welcome , skills , instruct , studentSay , header));
         }
 
     

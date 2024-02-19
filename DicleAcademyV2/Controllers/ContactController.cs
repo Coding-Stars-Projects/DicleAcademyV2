@@ -1,15 +1,26 @@
 ﻿using Entities.ModelsDto;
 using Microsoft.AspNetCore.Mvc;
+using Services.Contracts;
 
 namespace DicleAcademy.Controllers
 {
     public class ContactController : Controller
     {
+        private readonly IGetInTouchService _getInTouchService;
+
+        public ContactController(IGetInTouchService getInTouchService)
+        {
+            _getInTouchService = getInTouchService;
+        }
+
         public IActionResult Index()
         {
-            return View("ContactIndex");
+         var getInTouch=  _getInTouchService.GetAllGetInTouch();
+
+            return View("ContactIndex" , getInTouch);
         }
-        public IActionResult PostForm(ContactDto contactDto)
+        [HttpPost]
+        public IActionResult PostForm(ContactUsDto contactDto)
         {
             return RedirectToAction("Index");
         }
