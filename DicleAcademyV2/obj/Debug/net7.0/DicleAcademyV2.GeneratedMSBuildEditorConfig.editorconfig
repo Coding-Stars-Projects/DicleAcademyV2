@@ -120,10 +120,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybVZhbGlkYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/FormWizard.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybVdpemFyZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/Admin/FormXEditable.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5cRm9ybVhFZGl0YWJsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -430,6 +426,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/WelcomeInformation/ShowWelcomeInformation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV2VsY29tZUluZm9ybWF0aW9uXFNob3dXZWxjb21lSW5mb3JtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kadir/source/repos/DicleAcademyV2/DicleAcademyV2/Views/Aboute/AbouteIndex.cshtml]
